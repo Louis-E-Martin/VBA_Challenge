@@ -4,4 +4,4 @@ For this project my goal was to take a list of Stock tickers and the trading dat
 
 ## Results
 Between 2017 was a good year to invest. Every stock but TERP, and some went up as much as 199%! Comapre this to 2018 which had all stock but two go up ENPH and RUN respectively. The code i refactored had a slower run time then the orignal code. the orginal code had a .76 run time where as the new code had a .97 second run time
-[](url)[](url)
+[https://github.com/Louis-E-Martin/VBA_Challenge/blob/main/VBA_Challenge_2017.PNG](url)[](url)
